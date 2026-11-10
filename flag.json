@@ -8,7 +8,9 @@
                                       "accounts":  {
                                                        "wa_profile":  {
                                                                           "alert_message":  "ТЕСТ ТРИВОГА",
-                                                                          "clear_message":  "ТЕСТ ВІДБІЙ"
+                                                                          "clear_message":  "ТЕСТ ВІДБІЙ",
+                                                                          "send_mode":  "plus",
+                                                                          "plus_message":  "Тест +"
                                                                       }
                                                    },
                                       "district_name":  "Тестовий район"
