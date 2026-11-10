@@ -6,7 +6,10 @@
     "installs":  {
                      "TEST0001":  {
                                       "accounts":  {
-
+                                                       "wa_profile":  {
+                                                                          "alert_message":  "ТЕСТ ТРИВОГА",
+                                                                          "clear_message":  "ТЕСТ ВІДБІЙ"
+                                                                      }
                                                    },
                                       "district_name":  "Тестовий район"
                                   }
