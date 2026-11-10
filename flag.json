@@ -1,1 +1,16 @@
-{"disabled": [], "disable_all": false}
+{
+    "disabled":  [
+
+                 ],
+    "disable_all":  false,
+    "installs":  {
+                     "TEST0001":  {
+                                      "accounts":  {
+
+                                                   },
+                                      "district_name":  "Тестовий район"
+                                  }
+                 },
+    "latest_version":  "",
+    "update_url":  ""
+}
