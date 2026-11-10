@@ -1,5 +1,7 @@
 {
-    "disabled":  "TEST0001",
+    "disabled":  [
+
+                 ],
     "disable_all":  false,
     "installs":  {
                      "TEST0001":  {
