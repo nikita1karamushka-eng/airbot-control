@@ -1,5 +1,8 @@
 {
-    "disabled":  "7a31a29c",
+    "disabled":  [
+                     "7a31a29c",
+                     "caf337c2"
+                 ],
     "disable_all":  false,
     "installs":  {
 
